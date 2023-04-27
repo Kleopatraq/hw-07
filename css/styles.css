@@ -1025,13 +1025,12 @@ body {
     letter-spacing: 0.04em;
     width: 169px;
     height: 56px;
-    margin: 0 auto;
+    margin-left: 100px;
     color: #FFFFFF;
     background-color: #4d5ae5;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     cursor: pointer;
     border-radius: 4px;
-    padding: 16px 32px;
     border: none;
     transition-property: background-color;
     transition-duration: 250ms;
